@@ -8,4 +8,9 @@ This project we explore two different algorithms to achieve our goal. The first 
 
 # Airline Passenger Satisfaction - Data Analysis/Visualization and Predictive Modeling
 
+Airline passenger satisfaction is critical for customer retention and business growth. This project begins with descriptive analytics to explore and visualize key factors influencing satisfaction, such as seat comfort, service quality, food, and check-in experience.
+
+Using predictive analytics, classification models (Logistic Regression, Random Forest, XGBoost) will predict passenger satisfaction, identifying the most influential factors and creating models that could predict passenger satisfaction.
+
+In part II, we plan to use prescriptive analytics to optimize resource allocation using linear programming to maximize satisfaction within budget constraints. For example, determining whether to invest more in seat upgrades or customer service training. The goal is to enhance passenger experience, improve satisfaction rates, and drive long-term profitability through data-driven decision-making.
 
